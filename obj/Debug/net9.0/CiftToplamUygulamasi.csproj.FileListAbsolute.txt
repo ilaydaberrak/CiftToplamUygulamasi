@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\CiftToplamUygulamasi\bin\Debug\net9.0\CiftToplamUygulamasi.exe
+C:\Users\ASUS\Desktop\CiftToplamUygulamasi\bin\Debug\net9.0\CiftToplamUygulamasi.deps.json
+C:\Users\ASUS\Desktop\CiftToplamUygulamasi\bin\Debug\net9.0\CiftToplamUygulamasi.runtimeconfig.json
+C:\Users\ASUS\Desktop\CiftToplamUygulamasi\bin\Debug\net9.0\CiftToplamUygulamasi.dll
+C:\Users\ASUS\Desktop\CiftToplamUygulamasi\bin\Debug\net9.0\CiftToplamUygulamasi.pdb
+C:\Users\ASUS\Desktop\CiftToplamUygulamasi\obj\Debug\net9.0\CiftToplamUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\CiftToplamUygulamasi\obj\Debug\net9.0\CiftToplamUygulamasi.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\CiftToplamUygulamasi\obj\Debug\net9.0\CiftToplamUygulamasi.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\CiftToplamUygulamasi\obj\Debug\net9.0\CiftToplamUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CiftToplamUygulamasi\obj\Debug\net9.0\CiftToplamUygulamasi.sourcelink.json
+C:\Users\ASUS\Desktop\CiftToplamUygulamasi\obj\Debug\net9.0\CiftToplamUygulamasi.dll
+C:\Users\ASUS\Desktop\CiftToplamUygulamasi\obj\Debug\net9.0\refint\CiftToplamUygulamasi.dll
+C:\Users\ASUS\Desktop\CiftToplamUygulamasi\obj\Debug\net9.0\CiftToplamUygulamasi.pdb
+C:\Users\ASUS\Desktop\CiftToplamUygulamasi\obj\Debug\net9.0\CiftToplamUygulamasi.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\CiftToplamUygulamasi\obj\Debug\net9.0\ref\CiftToplamUygulamasi.dll
